@@ -1,0 +1,20 @@
+.inf h1,h2,h3,h4{
+    margin: 0;
+}
+.inf {
+    background-color: yellowgreen;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+.inf li {
+    text-align: center;
+    display: table;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: brown;
+    border: #282c34 solid 1px;
+}

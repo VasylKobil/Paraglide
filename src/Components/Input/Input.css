@@ -1,0 +1,17 @@
+.container{
+    background: yellowgreen;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+
+}
+.container .form{
+    position: absolute;
+    top: 30%;
+    left: calc(50% - 254px);
+}
+.form input{
+    width: 500px;
+    height: 20px;
+}

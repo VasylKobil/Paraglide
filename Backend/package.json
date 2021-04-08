@@ -1,0 +1,23 @@
+{
+  "name": "beckend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "react",
+    "javascript"
+  ],
+  "author": "VasylKobil <vasylkobil@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "download-file": "^0.1.5",
+    "express": "^4.17.1",
+    "igc-parser": "^1.0.0"
+  }
+}
