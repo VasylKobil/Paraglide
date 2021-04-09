@@ -24,6 +24,14 @@ In this app I use Backend and you need install packages for it. In terminal you 
 
 ###Five step
 Back to main folder. You can run this project with command `npm run start-serve`, it built React Component and after that running sever. You have to see in your terminal command
+
+![screen 3](https://user-images.githubusercontent.com/65114423/114131854-a0672d00-9903-11eb-9930-b4168808dd76.png)
+
 This means that the server is running and you can follow the link and use this application.
+
+![screen 1](https://user-images.githubusercontent.com/65114423/114131901-b1b03980-9903-11eb-9d50-5a369ef4b4c0.png)
+
+![screen 2](https://user-images.githubusercontent.com/65114423/114131929-bc6ace80-9903-11eb-88fb-e5579f0ea89c.png)
+
 
 ###Good luck =)
